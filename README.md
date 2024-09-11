@@ -7,3 +7,5 @@ A ládákon az alábbi leírás olvasható:
   Bronz láda: "Az arany láda hazudik"
 
 Én szerintem a bronz ládában van.
+
+![GUIkep](https://github.com/user-attachments/assets/00dc9728-52e4-41a0-adcf-cab8cecd24c0)
