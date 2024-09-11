@@ -6,4 +6,3 @@ A ládákon az alábbi leírás olvasható: \n
   Ezüstláda: "Nem én rejtem a kincset"
   Bronzláda: "Az aranyláda hazudik"
 
-  
