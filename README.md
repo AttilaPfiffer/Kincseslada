@@ -4,6 +4,6 @@ Van 3 láda, és az egyik egy kincset rejt, és mindháromban van egy felirat, �
 A ládákon az alábbi leírás olvasható: 
   Arany láda: "Én rejtem a kincset"
   Ezüst láda: "Nem én rejtem a kincset"
-  Bronz láda: "Az aranyláda hazudik"
+  Bronz láda: "Az arany láda hazudik"
 
 Én szerintem a bronz ládában van.
